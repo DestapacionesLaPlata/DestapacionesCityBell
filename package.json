@@ -1,0 +1,13 @@
+{
+  "name": "destapaciones-la-plata",
+  "version": "1.0.0",
+  "description": "Sitio web de destapaciones profesionales en La Plata",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["destapaciones", "plomeria", "la-plata"],
+  "author": "Destapaciones La Plata",
+  "license": "MIT"
+}
